@@ -24,6 +24,5 @@ Node.js · PostgreSQL · Linux
 ## 🧑‍💻 Currently working on
 
 * Masks as wearable tech
-* Apps for Dungeons & Dragons
+* Apps for Dungeons & Dragons 🧙‍♂️
 
--->
